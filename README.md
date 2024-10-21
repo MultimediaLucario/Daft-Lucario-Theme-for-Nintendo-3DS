@@ -39,7 +39,7 @@ Anemone3DS installed on your modded 3DS
 3. Turn off your 3DS system, remove the SD Card and plug it into your computer. (If you use a microSD Card, make sure you have a microSD to USB adapter to plug into your computer.)
 4. On your computer, go to the folder on your 3DS's SD Card that is named ```Themes```, and drag the zip file that you downloaded earlier.
 5. Eject the SD Card from your computer and put it back into your 3DS.
-6. Turn your 3DS on and open the Anemone app.
+6. Turn your 3DS on and open the Anemone3DS app.
 7. Install the theme by pressing A to open the Install Menu, then press D-Pad Up to complete the installation.
 8. Once the installation is complete, press Start to exit Anemone3DS. You will be booted to the Sleep Mode screen.
 9. Press Home to return to the HOME Menu.
