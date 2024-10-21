@@ -8,7 +8,7 @@ This is the official promotional Daft Lucario Theme for Nintendo 3DS created by 
 
 ### Song Used
 
-Daft Lucario vs. MEIRLIN x Hardwell x Porter Robinson x Will.i.am x Justin Beiber - Spaceflight 2099 / Countdown / Apollo / Language / #thatPOWER / Something (Daft Lucario HYPERGLOW 2024 Dashup)
+![Daft Lucario vs. MEIRLIN x Hardwell x Porter Robinson x Will.i.am x Justin Beiber - Spaceflight 2099 / Countdown / Apollo / Language / #thatPOWER / Something (Daft Lucario HYPERGLOW 2024 Dashup)](https://www.youtube.com/watch?v=NXCfSJkXB7M)
 
 
 ### This theme also uses the icon pack known as Definitive Icons by Smumbo
