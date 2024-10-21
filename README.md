@@ -21,13 +21,13 @@ https://themeplaza.art/item/79238
 
 ### You will need the following
 
-. Access to a computer that runs Windows, macOS, or Linux
+Access to a computer that runs Windows, macOS, or Linux
 
-. Any Nintendo 3DS system with the Luma3DS CFW (3DS, 3DS XL / LL, 2DS, New 3DS, New 3DS XL / LL, New 2DS XL / LL)
+Any Nintendo 3DS system with the Luma3DS CFW (3DS, 3DS XL / LL, 2DS, New 3DS, New 3DS XL / LL, New 2DS XL / LL)
 
-. An SD Card (If you have a microSD Card you may need an adapter.)
+An SD Card (If you have a microSD Card you may need an adapter.)
 
-. Anemone3DS installed on your modded 3DS
+Anemone3DS installed on your modded 3DS
 
 
 
@@ -35,7 +35,7 @@ https://themeplaza.art/item/79238
 ## Installation Guide
 
 1. Download the theme from the releases section but do not extract the zip folder.
-2. Make sure the Anemone app is installed on your 3DS system.
+2. Make sure the Anemone3DS app is installed on your 3DS system.
 3. Turn off your 3DS system, remove the SD Card and plug it into your computer. (If you use a microSD Card, make sure you have a microSD to USB adapter to plug into your computer.)
 4. On your computer, go to the folder on your 3DS's SD Card that is named ```Themes```, and drag the zip file that you downloaded earlier.
 5. Eject the SD Card from your computer and put it back into your 3DS.
